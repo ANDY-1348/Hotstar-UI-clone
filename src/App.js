@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Appstart from "./Appstart";
 import BannerMovie from "./BannerMovie";
 import "./App.css";
@@ -7,12 +7,12 @@ import "./App.css";
 const App = () => {
   return (
     <div>
-      <Router>
+      <HashRouter basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route path="/" exact component={Appstart} />
           <Route path="/movie/:id/:imgid" exact component={BannerMovie} />
         </Switch>
-      </Router>
+      </HashRouter>
     </div>
   );
 };
