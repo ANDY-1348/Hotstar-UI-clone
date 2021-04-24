@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hotstar-Ui-clone/static/css/main.efac3175.chunk.css",
-    "main.js": "/Hotstar-Ui-clone/static/js/main.852360c0.chunk.js",
-    "main.js.map": "/Hotstar-Ui-clone/static/js/main.852360c0.chunk.js.map",
+    "main.js": "/Hotstar-Ui-clone/static/js/main.fe579f19.chunk.js",
+    "main.js.map": "/Hotstar-Ui-clone/static/js/main.fe579f19.chunk.js.map",
     "runtime-main.js": "/Hotstar-Ui-clone/static/js/runtime-main.5dce0a3d.js",
     "runtime-main.js.map": "/Hotstar-Ui-clone/static/js/runtime-main.5dce0a3d.js.map",
     "static/css/2.7ba035cf.chunk.css": "/Hotstar-Ui-clone/static/css/2.7ba035cf.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.7ba035cf.chunk.css",
     "static/js/2.609b2b70.chunk.js",
     "static/css/main.efac3175.chunk.css",
-    "static/js/main.852360c0.chunk.js"
+    "static/js/main.fe579f19.chunk.js"
   ]
 }
